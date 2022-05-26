@@ -3,6 +3,7 @@ from functools import reduce
 from interfaces import Characteristic, Skill
 import math
 from random import sample
+from interfaces import Rollable
 import csv
 
 # The damage bonus table can be found on page 33 of the 7th revised edition.

@@ -1,0 +1,29 @@
+skill,base_score,source
+"Acrobatics",5
+"Balance",5
+"Climb",5
+"Craft",5
+"Criminology",5
+"Disguise",5
+"Dodge",DEX/2
+"Drive Vehicle",25
+"Fast Talk",5
+"Fine Manipulation",5
+"First Aid",25
+"Language",0
+"Hide",25
+"Jump",45
+"Knowledge",INT*4
+"Listen",45
+"Move Quietly",25
+"Observation",0
+"Persuade",5
+"Science",0
+"Spot Hidden",25
+"Streetwise",10
+"Swim",25
+"Fist",50
+"Grapple",25
+"Kick",25
+"Smash",25
+"Throw",45
